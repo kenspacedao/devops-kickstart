@@ -4,7 +4,7 @@ A hands-on DevOps project demonstrating containerization, multi-container orches
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project showcases a production-ready DevOps workflow by packaging a Node.js REST API and a Redis database into isolated containers and automating quality control with GitHub Actions.
 
@@ -46,7 +46,7 @@ devops-kickstart/
 
 ---
 
-## 🛠 How to Run Locally
+## How to Run Locally
 
 ### 1. Standard Node.js Execution
 ```bash
@@ -72,7 +72,7 @@ docker compose down
 
 ---
 
-## 🔄 CI/CD Pipeline Workflow
+## CI/CD Pipeline Workflow
 
 Every time changes are pushed to the `main` branch, GitHub Actions automatically:
 1. Provisions a clean Ubuntu cloud virtual machine (`ubuntu-latest`).
