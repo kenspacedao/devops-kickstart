@@ -2,7 +2,7 @@ const test = require('node:test');
 const assert = require('node:assert');
 
 test('Basic health math check', () => {
-    assert.strictEqual(1 + 1, 2);
+    assert.strictEqual(1 + 1, 3);
 });
 
 test('Environment check', () => {
