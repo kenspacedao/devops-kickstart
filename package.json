@@ -1,0 +1,20 @@
+{
+  "name": "devops-kickstart",
+  "version": "1.0.0",
+  "description": "Follow the steps guided by your AI assistant to build and deploy a containerized application with a complete CI/CD pipeline.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "redis": "^6.0.1"
+  },
+  "devDependencies": {
+    "supertest": "^7.2.2"
+  }
+}
