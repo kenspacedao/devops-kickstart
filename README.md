@@ -17,7 +17,7 @@ This project showcases a production-ready DevOps workflow by packaging a Node.js
 
 ---
 
-## 🛠 Tech Stack & Tools
+## Tech Stack & Tools
 
 * **Application**: Node.js, Express, Redis
 * **Containerization**: Docker, Docker Compose
@@ -27,7 +27,7 @@ This project showcases a production-ready DevOps workflow by packaging a Node.js
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 devops-kickstart/
